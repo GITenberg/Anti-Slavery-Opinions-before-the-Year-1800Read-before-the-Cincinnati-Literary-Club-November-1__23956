@@ -1,0 +1,36 @@
+_repo: Anti-Slavery-Opinions-before-the-Year-1800Read-before-the-Cincinnati-Literary-Club-November-1__23956
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Poole, William Frederick
+    alias: Poole, William F. (William Frederick)
+    birthdate: 1821
+    deathdate: 1894
+    gutenberg_agent_id: '26144'
+    url: http://www.gutenberg.org/2009/agents/26144
+  - agent_name: Buchanan, George
+    birthdate: 1763
+    deathdate: 1808
+    gutenberg_agent_id: '26145'
+    url: http://www.gutenberg.org/2009/agents/26145
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2007-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Antislavery movements -- United States'
+- !lcsh 'Slavery -- United States'
+title: 'Anti-Slavery Opinions before the Year 1800
+
+  Read before the Cincinnati Literary Club, November 16, 1872'
+url: http://www.gutenberg.org/ebooks/23956
