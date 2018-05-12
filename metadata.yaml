@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '26145'
     url: http://www.gutenberg.org/2009/agents/26145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23956#Anti-Slavery-Opinions-before-the-Year-1800Read-before-the-Cincinnati-Literary-Club-November-1_
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2007-12-21'
 gutenberg_type: Text
